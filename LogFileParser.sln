@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogFileParser", "Source\LogFileParser.csproj", "{965B333F-B920-47DE-A3D5-BA8DBB73868B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{965B333F-B920-47DE-A3D5-BA8DBB73868B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{965B333F-B920-47DE-A3D5-BA8DBB73868B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{965B333F-B920-47DE-A3D5-BA8DBB73868B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{965B333F-B920-47DE-A3D5-BA8DBB73868B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3E7A657-5FA5-445C-8485-B20F627F68FB}
+	EndGlobalSection
+EndGlobal
