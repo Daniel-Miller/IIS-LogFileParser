@@ -13,4 +13,4 @@ This is a simple console application that parses a directory containing Microsof
 
 **PowerShell Example:**
 
-`> .\LogFileParser.exe 2023-12-08-1750 45 500`
+`> .\LogFileParser.exe C:\inetpub\logs\LogFiles 2023-12-08-1750 45 500`
